@@ -1,0 +1,12 @@
+dtw-python
+editdistance
+matplotlib
+numpy
+onnxruntime
+pandas
+scipy
+seaborn
+SoundFile
+torch
+transformers
+tqdm
