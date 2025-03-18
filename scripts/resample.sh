@@ -1,8 +1,8 @@
 #!/bin/bash
 
 dirs=(
-    "../datasets/wiktionary_pronunciations-final/audios/GPT4o"
-    "../datasets/wiktionary_pronunciations-final/audios/wiktionary"
+    "F:\PyCharm\acoustic_distances_wiktionary\datasets\wiktionary_pronunciations-final\audios\GPT4o"
+    "F:\PyCharm\acoustic_distances_wiktionary\datasets\wiktionary_pronunciations-final\audios\wiktionary"
 )
 
 for input_dir in "${dirs[@]}"; do
@@ -19,3 +19,5 @@ for input_dir in "${dirs[@]}"; do
         fi
     done
 done
+
+

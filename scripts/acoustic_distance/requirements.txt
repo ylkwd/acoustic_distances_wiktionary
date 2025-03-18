@@ -10,3 +10,4 @@ SoundFile
 torch
 transformers
 tqdm
+sox
